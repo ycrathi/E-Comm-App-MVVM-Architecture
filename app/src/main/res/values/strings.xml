@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-Commerce App</string>
+    <string name="most_viewed">Most\nViewed</string>
+    <string name="most_ordered">Most\nOrdered</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="most_shared">Most\nShared</string>
+</resources>
