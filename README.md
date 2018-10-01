@@ -2,6 +2,8 @@
 Ecomm app sample demo using MVVM architecture
 
 
+If API is not working then i added JSON response in raw folder please use that :) Happy coding.
+
 **Some snapshots of this app.**
 
 ![screenshot_1538055636](https://user-images.githubusercontent.com/25124224/46150075-5ceacd00-c289-11e8-93f1-3ac9ea0e1e1f.png)
